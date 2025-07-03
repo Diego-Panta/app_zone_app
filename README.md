@@ -32,7 +32,7 @@
 
 ### 🕹 Gestión Completa de Videojuegos
 
-![Lista de Juegos](![image](https://github.com/user-attachments/assets/10cbebd9-480a-4b08-94bb-fab555e7dcb0))
+![image](https://github.com/user-attachments/assets/10cbebd9-480a-4b08-94bb-fab555e7dcb0)
 
 - Añadir nuevos juegos con información detallada (título, plataforma, género, etc.)  
 - Editar cualquier campo de un juego ya registrado  
@@ -43,7 +43,7 @@
 
 ### 🔍 Búsqueda Inteligente y Filtros Dinámicos
 
-![Pantalla de Búsqueda](![image](https://github.com/user-attachments/assets/f66c5a55-090c-4105-996e-884d9b77a196))
+![image](https://github.com/user-attachments/assets/f66c5a55-090c-4105-996e-884d9b77a196)
 
 - Filtro en tiempo real mientras el usuario escribe  
 - Combinación de múltiples criterios de búsqueda (por género, plataforma, etc.)  
@@ -55,27 +55,27 @@
 Incluye capturas clave de la experiencia del usuario:
 
 - 📱 Pantalla de Inicio de Sesión
-![Pantalla de Inicio de Sesión](![image](https://github.com/user-attachments/assets/10195401-6188-43d7-a751-2ce3407655e6))
+![image](https://github.com/user-attachments/assets/10195401-6188-43d7-a751-2ce3407655e6)
 
 - 🎮 Lista de Juegos
-![Lista de Juegos](![image](https://github.com/user-attachments/assets/10cbebd9-480a-4b08-94bb-fab555e7dcb0))
+![image](https://github.com/user-attachments/assets/10cbebd9-480a-4b08-94bb-fab555e7dcb0)
   
 - 🔍 Búsqueda Avanzada
-![Pantalla de Búsqueda](![image](https://github.com/user-attachments/assets/f66c5a55-090c-4105-996e-884d9b77a196))
+![image](https://github.com/user-attachments/assets/f66c5a55-090c-4105-996e-884d9b77a196)
     
 - ➕ Añadir Nuevo Juego
-![Pantalla de Nuevo Juego](![image](https://github.com/user-attachments/assets/ece1b010-487b-44f3-b31f-6af49f5ed388))
+![image](https://github.com/user-attachments/assets/ece1b010-487b-44f3-b31f-6af49f5ed388)
 
   
 - ☰ Menú de Filtros
 
   
 - ✏️ Edición de Juego
-![Pantalla de Edición de juego](![image](https://github.com/user-attachments/assets/ce3fa632-9bb9-4299-8914-302c52476c34))
+![image](https://github.com/user-attachments/assets/ce3fa632-9bb9-4299-8914-302c52476c34)
 
   
 - 🗑 Confirmación de Eliminación
-![Pantalla de Edición de juego](![image](https://github.com/user-attachments/assets/fcc50648-4198-434e-b9fb-4e1cfca7f34f))
+![image](https://github.com/user-attachments/assets/fcc50648-4198-434e-b9fb-4e1cfca7f34f)
 
   
 

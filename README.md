@@ -1,6 +1,6 @@
 # 🎮 GameVault - Tu Biblioteca Personal de Videojuegos
 
-![Banner de la App](![image](https://github.com/user-attachments/assets/d43a1552-e6fc-4b05-9da6-0d90bbfcb24f)) <!-- Reemplaza "#" con la URL de la imagen -->
+![image](https://github.com/user-attachments/assets/d43a1552-e6fc-4b05-9da6-0d90bbfcb24f)
 
 **GameVault** es una aplicación Android moderna diseñada para coleccionistas y entusiastas de los videojuegos. Permite organizar tu colección personal de forma segura, sincronizada y visualmente atractiva, utilizando las últimas tecnologías de desarrollo móvil.
 
@@ -22,8 +22,8 @@
 
 ### 🔐 Autenticación Segura
 
-![Pantalla de Registro de Sesión](![image](https://github.com/user-attachments/assets/357c150b-0a15-4e57-9d2a-f868acff6496))
-![Pantalla de Inicio de Sesión](![image](https://github.com/user-attachments/assets/10195401-6188-43d7-a751-2ce3407655e6))
+![image](https://github.com/user-attachments/assets/357c150b-0a15-4e57-9d2a-f868acff6496)
+![image](https://github.com/user-attachments/assets/10195401-6188-43d7-a751-2ce3407655e6)
 - Registro de nuevos usuarios con verificación por correo electrónico  
 - Inicio de sesión persistente y automático  
 - Recuperación de contraseña mediante email  
